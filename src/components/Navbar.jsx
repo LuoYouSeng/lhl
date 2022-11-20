@@ -2,9 +2,9 @@ import { Link } from 'react-router-dom'
 import LHL from '../assets/images/logo.png'
 
 const barList = [
-    {text: '關於LHL', link: './about'},
-    {text: '歷届賽事', link: './match'},
-    {text: '聯係我們', link: './contact'},
+    {text: '關於LHL', link: '/about'},
+    {text: '歷届賽事', link: '/match'},
+    {text: '聯係我們', link: '/contact'},
 ]
 
 export default function() {

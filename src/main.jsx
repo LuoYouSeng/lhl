@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client"
 import {
     createBrowserRouter,
     RouterProvider,
-    Route,
 } from "react-router-dom"
 
 import "./index.css"
@@ -11,6 +10,7 @@ import "./index.css"
 import Home from "./views/Home"
 import About from "./views/About"
 import Contact from "./views/Contact"
+import Match from "./views/Match"
 
 const router = createBrowserRouter([
     {
@@ -24,6 +24,10 @@ const router = createBrowserRouter([
     {
         path: "/contact",
         element: <Contact></Contact>,
+    },
+    {
+        path: "/match",
+        element: <Match></Match>,
     },
 ])
 

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "公測",
+        "rs": {
+            "rank": [
+                {"name": "Sky", "win": 5, "lose": 2},
+                {"name": "Mozz", "win": 5, "lose": 3},
+                {"name": "Tingod", "win": 5, "lose": 3},
+                {"name": "只因哥", "win": 5, "lose": 3},
+                {"name": "Ivan", "win": 4, "lose": 4},
+                {"name": "DK", "win": 4, "lose": 4},
+                {"name": "Undert", "win": 3, "lose": 5},
+                {"name": "Kimman", "win": 2, "lose": 1},
+                {"name": "喵喵", "win": 2, "lose": 4},
+                {"name": "SHAOKP", "win": 2, "lose": 5},
+                {"name": "大佬", "win": 1, "lose": 1},
+                {"name": "考試233", "win": 0, "lose": 1},
+                {"name": "汝鐵劍不學學銀劍", "win": 0, "lose": 1}
+            ]
+        },
+        "pf": null
+    }
+]

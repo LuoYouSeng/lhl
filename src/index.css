@@ -11,7 +11,7 @@ html, body, #root {
 }
 
 .navbar-item {
-    @apply transform translate-y-0.5
+    @apply transform translate-y-0.5 text-xl
 }
 
 .navbar-item::after {

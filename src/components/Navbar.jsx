@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import LHL from '../assets/images/logo.png'
+import LHL from '../assets/images/lhl.png'
 
 const barList = [
     {text: '關於LHL', link: '/about'},
